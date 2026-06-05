@@ -29,8 +29,10 @@ Multilingual sentiment analysis of **248,858 Google Play reviews** across 5 lead
 
 ## 📁 Project Structure
 .
-├── 01_data_exploration.ipynb       # Phases 1–3, 5: scrape, clean, VADER, ABSA
-├── 02_transformer_sentiment.ipynb  # Phase 4: XLM-RoBERTa inference on Colab GPU
+ # Phases 1–3, 5: scrape, clean, VADER, ABSA
+├── 01_data_exploration.ipynb  
+# Phase 4: XLM-RoBERTa inference on Colab GPU
+├── 02_transformer_sentiment.ipynb  
 ├── scrape_reviews.py               # Initial Play Store scraper
 ├── scrape_missing.py               # Top-up scraper for missing apps
 ├── phase3_vader_by_app.png         # Baseline sentiment per app
