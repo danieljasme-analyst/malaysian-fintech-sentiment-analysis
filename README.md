@@ -117,7 +117,7 @@ Initial English-only baseline showed only MAE as net-negative — later disprove
 
 ```bash
 # 1. Clone and set up environment
-git clone https://github.com/YOUR_USERNAME/malaysian-fintech-sentiment-analysis.git
+git clone https://github.com/danieljasme-analyst/malaysian-fintech-sentiment-analysis.git
 cd malaysian-fintech-sentiment-analysis
 python -m venv venv
 # Windows: venv\Scripts\activate    |    Mac/Linux: source venv/bin/activate
@@ -160,6 +160,6 @@ Code released under MIT License.
 
 Open to internship opportunities in **data analytics, NLP, and fintech**.
 
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
+- LinkedIn: [www.linkedin.com/in/ahmad-daniel-63721b322]
+- Email: [danieljasme5@gmail.com]
 - University: Universiti Teknologi MARA (UiTM)
