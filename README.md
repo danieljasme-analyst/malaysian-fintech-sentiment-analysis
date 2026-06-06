@@ -1,5 +1,8 @@
 # Malaysian Fintech Sentiment Analysis 🇲🇾
 
+[![Live Dashboard](https://img.shields.io/badge/🚀_Live_Dashboard-Open_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://malaysian-fintech-sentiment-analysis-qmpqjnmxenvy892i737mbd.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danieljasme-analyst/malaysian-fintech-sentiment-analysis)
+
 > Multilingual sentiment analysis of **248,858 Google Play reviews** across 5 leading Malaysian e-wallet and digital banking apps, comparing a rule-based VADER baseline against a multilingual transformer (XLM-RoBERTa) for production-grade sentiment classification on real-world bilingual data.
 
 **Course**: ISP610 Business Data Analytics  
