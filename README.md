@@ -23,6 +23,22 @@
 
 ---
 
+## 🖼️ Dashboard Preview
+
+### Overview Page
+![Overview](screenshot_01_overview.png)
+
+### App Deep-Dive (MAE by Maybank)
+![Deep Dive](screenshot_02_deepdive.png)
+
+### Aspect Heatmap
+![Heatmap](screenshot_03_heatmap.png)
+
+### Sample Reviews Explorer
+![Reviews](screenshot_04_reviews.png)
+
+> 🚀 **[Try the live dashboard →](https://malaysian-fintech-sentiment-analysis-qmpqjnmxenvy892i737mbd.streamlit.app/)**
+
 ## 🧰 Tech Stack
 
 | Layer | Tools |
