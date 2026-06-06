@@ -18,12 +18,12 @@ st.set_page_config(
 # ============================================================
 @st.cache_data
 def load_data():
-    df = pd.read_csv("dashboard_data.csv")
+    df = pd.read_csv("data/dashboard_data.csv")
     return df
 
 @st.cache_data
 def load_aspect_pivot():
-    return pd.read_csv("aspect_sentiment_pivot.csv", index_col=0)
+    return pd.read_csv("data/aspect_sentiment_pivot.csv", index_col=0)
 
 df = load_data()
 aspect_pivot = load_aspect_pivot()
